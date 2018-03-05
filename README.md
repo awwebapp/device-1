@@ -1,1 +1,1 @@
-# device-1
+# device1
